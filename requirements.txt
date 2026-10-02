@@ -1,0 +1,3 @@
+ag2[anthropic]<1   # ag2 1.x is a rewrite without the classic autogen API
+python-dotenv
+pygame

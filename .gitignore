@@ -1,0 +1,6 @@
+.env
+.venv/
+__pycache__/
+# The agents rebuild coding/odyssey.py on every run. The approved build is committed.
+coding/*
+!coding/odyssey.py
